@@ -1,9 +1,38 @@
-<div id="header" align="center">
-  <h1>Hi 👋</h1> 
-  <img src="https://media.giphy.com/media/HgycnYQCMeJXO/giphy.gif" width="500"/>
-  
-## Me in other networks
+<div align="center">
 
-[![Telegram contact](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tabara_bulkala)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/bebrooooooo)
+## Hi 👋 my name is Michael
+<img src="https://media.giphy.com/media/HgycnYQCMeJXO/giphy.gif" width="300"/>
+
+#### I am python backend developer
+
+🌍  I am based in Israel  
+⭐  My current project - [Chtozadano](http://github.com/TabarakoAkula/ChtoZadano)  
+
+<div>
+  
+#### My contacts | Social networks
+
+<p align="center">
+  <a href="mailto:mishabor2367@gmail.com" target="_blank" rel="noreferrer"> <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=000000" width="32" height="32" /> </picture> </a>
+  <a href="https://t.me/tabara_bulkala" target="_blank" rel="noreferrer"> <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" width="32" height="32" /> </picture> </a>
+  <a href="https://www.linkedin.com/in/michael-kushner-1154b6315/" target="_blank" rel="noreferrer"> <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.reddit.com/user/Careless-Stress1036/" target="_blank" rel="noreferrer"> <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=102689&format=png&color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=100&id=102689&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=102689&format=png&color=000000" width="32" height="32" /> </picture> </a>
+</p>
+
+#### Some stats
+
+<a href="http://www.github.com/TabarakoAkula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TabarakoAkula&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 </div>
