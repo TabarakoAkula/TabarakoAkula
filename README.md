@@ -6,7 +6,7 @@
 #### I am python backend developer
 
 🌍  I am based in Israel  
-⭐  My current project - [Chtozadano](http://github.com/TabarakoAkula/ChtoZadano)  
+⭐  My current project - [Randevoo](https://github.com/TabarakoAkula/Randevoo)  
 
 <div>
   
@@ -25,10 +25,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.reddit.com/user/Careless-Stress1036/" target="_blank" rel="noreferrer"> <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=102689&format=png&color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=100&id=102689&format=png&color=000000" />
-    <img src="https://img.icons8.com/?size=100&id=102689&format=png&color=000000" width="32" height="32" /> </picture> </a>
 </p>
 
 #### Some stats
