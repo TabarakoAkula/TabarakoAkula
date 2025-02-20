@@ -2,12 +2,6 @@
 
 ## Hi 👋 my name is Michael
 <img src="https://media.giphy.com/media/HgycnYQCMeJXO/giphy.gif" width="300"/>
-
-#### I am python backend developer
-
-🌍  I am based in Israel  
-⭐  My current project - [Randevoo](https://github.com/TabarakoAkula/Randevoo)  
-
 <div>
   
 #### My contacts | Social networks
